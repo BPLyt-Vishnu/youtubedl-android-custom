@@ -74,9 +74,9 @@ dependencies {
     kapt 'com.google.dagger:hilt-compiler:2.48'
     implementation 'androidx.hilt:hilt-navigation-compose:1.1.0'
 
-    // YouTube Downloader
-    implementation 'com.github.yausername.youtubedl-android:library:0.21.0'
-    implementation 'com.github.yausername.youtubedl-android:ffmpeg:0.21.0'
+    // YouTube Downloader (Updated to latest stable version)
+    implementation 'com.github.yausername.youtubedl-android:library:0.30.0'
+    implementation 'com.github.yausername.youtubedl-android:ffmpeg:0.30.0'
 
     // Permissions
     implementation 'com.google.accompanist:accompanist-permissions:0.32.0'
