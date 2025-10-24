@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube Downloader</string>
+    <string name="enter_youtube_url">Enter YouTube URL</string>
+    <string name="fetch_qualities">Fetch Qualities</string>
+    <string name="select_quality">Select Quality</string>
+    <string name="download">Download</string>
+    <string name="clear">Clear</string>
+    <string name="downloading">Downloading...</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="invalid_url">Invalid YouTube URL</string>
+    <string name="no_qualities_found">No qualities found for this video</string>
+    <string name="permission_required">Storage permission required</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="select_download_location">Select Download Location</string>
+    <string name="video_quality">Video Quality</string>
+    <string name="audio_only">Audio Only</string>
+    <string name="video_audio">Video + Audio</string>
+    <string name="disclaimer_title">Legal Disclaimer</string>
+    <string name="disclaimer_text">This app is for personal use only. Users are responsible for complying with YouTube\'s Terms of Service and must have permission to download videos. Do not download copyrighted content without permission.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="progress">Progress: %1$d%%</string>
+    <string name="estimated_time">Estimated time: %1$s</string>
+    <string name="file_saved_to">File saved to: %1$s</string>
+    <string name="error_network">Network error. Please check your internet connection.</string>
+    <string name="error_restricted">This video is restricted or unavailable.</string>
+    <string name="error_parsing">Error parsing video information.</string>
+    <string name="error_download">Download failed. Please try again.</string>
+    <string name="error_storage">Storage permission denied.</string>
+    <string name="error_ffmpeg">FFmpeg not available for video merging.</string>
+</resources>
